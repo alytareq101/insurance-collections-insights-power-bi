@@ -2,6 +2,8 @@
 
 ### Power BI dashboard · an insurance broker case study
 
+> **The real question isn't "why is this premium late?" but "who's holding it?"** The same overdue total splits into four queues: waiting on the broker's review, on the insurer, on the client, or on finance. Each needs a different person to act. In this data, 41% of "overdue" premiums (EGP 6.07M) were already paid by clients and stuck waiting on insurer receipts, so the follow-up belonged with insurers, not clients.
+
 **Power BI dashboard for insurance premium collections and accounts receivable**: Power Query data cleaning, star schema data modeling, DAX measures, aging analysis, and an action list of overdue and at-risk premiums.
 
 It tracks premium collection at an insurance broker: not just **what** is late, but **where each premium is stuck** and **who has to act**.
